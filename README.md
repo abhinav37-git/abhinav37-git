@@ -1,33 +1,139 @@
-# Hi, I'm Abhinav 👋🔭
+<div align="center">
 
-<img src="https://github.com/abhinav37-git/assets/blob/d1464447dcbd6181b14b0264f4ffee2fa3ab0326/Cover.png" alt="Cover picture - Abhinav Dwivedi_ Computer Programmer ">
-I’m a software engineer passionate about development, creating impactful technology, and building communities. I enjoy working with technologies like Java, Python, SwiftUI, focusing on IoT, AI, and web development. Through my work, I’ve led innovative projects like smart IoT lab automation and smart attendance systems, which have been recognized in University competitions. Additionally, I gained experience in blockchain development with Ethereum and Polygon. I have also published research article on AI’s impact on jobs and the future of cybersecurity in the quantum era. My technical toolkit includes Databases, iOS Development, Virtualisation, Cloud, Linux and CI/CD.
+```
+   █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
+  ██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗██║   ██║
+  ███████║██████╔╝███████║██║██╔██╗ ██║███████║██║   ██║
+  ██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+  ██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║ ╚████╔╝ 
+  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  
+```
 
-## My technical toolkit includes:
+### 🌌 Architecting Enterprise Cloud Data • Autonomous AI Systems • Post-Quantum Resilience
 
-	•	Languages: Python, Java, C++
-	•	Frameworks & Tools: Django, Flask, TensorFlow, GraphDB, Docker, Kubernetes, CI/CD
-	•	Interests: Blockchain (Ethereum & Polygon), Machine Learning, Smart Home Automation, Cyber Security in Quantum era
+[![Domain](https://img.shields.io/badge/✦_abhinavdwivedi.pro-111315?style=for-the-badge&logoColor=34d399&labelColor=060809)](https://abhinavdwivedi.pro)
+[![LinkedIn](https://img.shields.io/badge/✦_abhi--astral-111315?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=060809)](https://linkedin.com/in/abhi-astral)
+[![Organization](https://img.shields.io/badge/✦_velithsoftware-111315?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=060809)](https://github.com/velithsoftware)
+[![Contact](https://img.shields.io/badge/✦_abhinavd372@gmail.com-111315?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=060809)](mailto:abhinavd372@gmail.com)
 
-💼 Professional Experience
+<br/>
 
-	•	Samsung PRISM (Virtual Internship): Worked on smart home user activity inference using smart home data, GraphDB, and a knowledge graph. Developed recommendation and prediction systems with machine learning.
-	•	Metacrafters (Training): Gained hands-on experience with blockchain development, focusing on Ethereum and Polygon, including token transfer and static web page design.
+```ini
+[RUNTIME_STATUS: ACTIVE]
+CURRENT_ROLE      = Data & AI Systems Engineer @ HCLTech
+RESEARCH_FOCUS    = Post-Quantum Cryptography (ML-KEM / ML-DSA) & Zero-Trust Telemetry
+CORE_PHILOSOPHY   = "Deterministic data pipelines; autonomous cognitive agents; quantum-safe trust."
+SYSTEM_LOCATION   = Noida, India // Latency: Sub-10ms
+```
 
-🔧 Skills
+</div>
 
-	•	Programming: Python, Java, Embedded C++
-	•	Technologies: GraphDB, TensorFlow, Docker, AWS, Linux, Cross Compilation, CI/CD, Cloud Computing, DevOps
-	•	Soft Skills: Team Leadership, Decision Making, Public Speaking
+---
 
-🎯 Hobbies
+### 📡 System Telemetry & Mission
 
-When I’m not coding, you’ll find me:
+I engineer high-throughput cloud data platforms and defensive system architectures. By day, I modernize and orchestrate petabyte-scale data pipelines across **Snowflake, Matillion DPC, and IBM DataStage**, infusing daily engineering with **agentic AI tooling and autonomous RCA pipelines**.
 
-	•	Traveling to new places 🌍
-	•	Watching sci-fi movies and series 🚀
+By night, under **[Velith Systems](https://github.com/velithsoftware)**, I design software engineered for tomorrow’s cryptographic transition—building zero-trust DNS interceptors and post-quantum cryptographic migration suites that neutralize the *Harvest Now, Decrypt Later* threat.
 
-## Find me on Social Media:
+```
+       [ Classical Data Layers ]
+                  │
+                  ▼  (Matillion DPC / Snowflake / DataStage)
+       ┌──────────────────────┐
+       │  High-Throughput ELT │ ──► Automated Reconciliation (99.9%+ Accuracy)
+       └──────────┬───────────┘
+                  │  (Maia / Copilot Agentic Workflows)
+                  ▼
+       [ Autonomous AI Agents ] ──► Dynamic Anomaly RCA & Logic Synthesis
+                  │
+                  ▼  (NIST FIPS 203 & 204 Standards)
+       [ Quantum-Safe Defense ] ──► Hybrid TLS (ML-KEM) & Zero-Trust DNS
+```
 
-- Sharing career and academic achievements on <a href="https://www.linkedin.com/in/abhinav-dwivedi-a52788230/">LinkedIN
-- Contact to me <a href="abhinavd372@gmail.com"> Gmail
+---
+
+### 🛡️ Flagship Artifacts
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ <a href="https://github.com/velithsoftware/terminator_sec">terminator_sec</a></h3>
+      <i>Ultra-lightweight endpoint threat interception platform</i>
+      <br/><br/>
+      <ul>
+        <li><b>Zero-Trust DNS Proxy:</b> Evaluates domain risk on-host before socket connections open.</li>
+        <li><b>3-Tier Threat Engine:</b> Radix Tries, Bloom Filters, and Shannon Entropy (DGA botnet detection) with &lt;10ms execution.</li>
+        <li><b>Stack:</b> Go, Swift Agent, WebSocket Telemetry, Linux/Darwin/Win.</li>
+      </ul>
+      <p align="left">
+        <code>go</code> <code>network-security</code> <code>sub-10ms</code> <code>bloom-filter</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚛️ <a href="https://github.com/velithsoftware/post_quantum_defence_suite">post_quantum_defence_suite</a></h3>
+      <i>End-to-End Cryptographic Agility & Migration Engine</i>
+      <br/><br/>
+      <ul>
+        <li><b>CBOM Discovery:</b> Automated scanner auditing vulnerable classical cryptographic assets (RSA / ECC / SHA-1).</li>
+        <li><b>Agile Hybrid TLS:</b> Edge translation reverse-proxy negotiating NIST <b>ML-KEM (Kyber)</b> handshakes.</li>
+        <li><b>Quantum PKI & Signer:</b> Dual-signature X.509 CA (<b>ML-DSA</b>) + stateful LMS hash signer (RFC 8554).</li>
+      </ul>
+      <p align="left">
+        <code>pqc</code> <code>ml-kem</code> <code>ml-dsa</code> <code>crypto-agility</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧬 Technology Matrix
+
+```yaml
+Data_Platforms:
+  warehouses:   [ Snowflake, Cloud Data Lakes, PostgreSQL ]
+  etl_elt:      [ Matillion Data Productivity Cloud (DPC), IBM DataStage, Apache Airflow ]
+  modelling:    [ Star Schema, Dimensional Modelling, Schema Evolution, CDC ]
+
+Cognitive_AI_&_Automation:
+  paradigms:    [ Multi-Agent Workflows, Tool Synthesis, Function Calling, RAG ]
+  accelerators: [ Matillion Maia, Microsoft Copilot, LangChain, Vector Embeddings ]
+  apis:         [ FastAPI, Python REST Microservices, Event-Driven Daemons ]
+
+Systems_&_Defense:
+  cryptography: [ NIST FIPS 203 (ML-KEM), FIPS 204 (ML-DSA), RFC 8554 (LMS), Hybrid TLS ]
+  networking:   [ Host-level DNS Interception, Packet Inspection, Zero-Trust Architecture ]
+
+Languages_&_Infrastructure:
+  languages:    [ SQL (Advanced Analytical), Python, Go, Java, Swift, Bash ]
+  devops:       [ Azure DevOps (CI/CD), Docker, Linux/Unix Internals, Git ]
+```
+
+---
+
+### 📜 Publications & Thought Leadership
+
+- 📄 **Research Paper:** *[Cybersecurity and Prevention in the Quantum Era](https://abhinavdwivedi.pro)*  
+  An analytical study dissecting quantum computing threat vectors against asymmetric key infrastructure, establishing pragmatic architectural blueprints for enterprise migration to post-quantum standards.
+
+---
+
+### 🪐 Gateway
+
+<div align="center">
+
+| Artifact | Coordinates |
+| :--- | :--- |
+| **Interactive Systems Portfolio** | [abhinavdwivedi.pro](https://abhinavdwivedi.pro) |
+| **Research Organization** | [github.com/velithsoftware](https://github.com/velithsoftware) |
+| **Professional Dispatch** | [linkedin.com/in/abhi-astral](https://linkedin.com/in/abhi-astral) |
+| **Direct Frequency** | [abhinavd372@gmail.com](mailto:abhinavd372@gmail.com) |
+
+<br/>
+
+```
+"The future does not compute in classical bits alone."
+```
+
+</div>
